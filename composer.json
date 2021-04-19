@@ -2,10 +2,10 @@
     "name": "saaideveloper/mg2customproductattribute",
     "description": "Adding Custom Product Attribute For Every Time You Create A New Product",
     "require": {
-      "php": ">=5.0",
+      "php": ">=5.0"
     },
     "type": "magento2-module",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
