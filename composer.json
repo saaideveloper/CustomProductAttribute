@@ -1,5 +1,5 @@
 {
-    "name": "saaideveloper/Mg2CustomProductAttribute",
+    "name": "saaideveloper/mg2customproductattribute",
     "description": "Adding Custom Product Attribute For Every Time You Create A New Product",
     "require": {
       "php": "~5.6.0|7.0.2|~7.0.6",
